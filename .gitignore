@@ -3,6 +3,3 @@ venv/
 .idea/
 .pytest_cache/
 __pycache__/
-.data
-.configuration
-.sender_stand_request
